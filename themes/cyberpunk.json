@@ -1,0 +1,32 @@
+{
+    "id": "cyberpunk",
+    "name": "Cyberpunk",
+    "description": "High contrast neon aesthetic for night coding sessions",
+    "author": "Mio Kaza",
+    "version": "1.0.0",
+    "type": "dark",
+    "tags": [
+        "Neon",
+        "Retro",
+        "High Contrast"
+    ],
+    "colors": {
+        "background": "oklch(0.12 0.05 290)",
+        "foreground": "oklch(0.9 0.05 190)",
+        "card": "oklch(0.15 0.05 290)",
+        "cardForeground": "oklch(0.9 0.05 190)",
+        "primary": "oklch(0.65 0.25 330)",
+        "primaryForeground": "oklch(0.98 0 0)",
+        "secondary": "oklch(0.25 0.1 290)",
+        "secondaryForeground": "oklch(0.9 0.05 190)",
+        "muted": "oklch(0.25 0.1 290)",
+        "mutedForeground": "oklch(0.6 0.1 290)",
+        "accent": "oklch(0.85 0.2 190)",
+        "accentForeground": "oklch(0.12 0.05 290)",
+        "destructive": "oklch(0.6 0.25 20)",
+        "destructiveForeground": "oklch(0.98 0 0)",
+        "border": "oklch(0.35 0.1 290)",
+        "input": "oklch(0.3 0.1 290)",
+        "ring": "oklch(0.65 0.25 330)"
+    }
+}

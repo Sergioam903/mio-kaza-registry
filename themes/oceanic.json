@@ -1,0 +1,32 @@
+{
+    "id": "oceanic",
+    "name": "Oceanic",
+    "description": "Deep sea aesthetics with teal accents",
+    "author": "Mio Kaza",
+    "version": "1.0.0",
+    "type": "dark",
+    "tags": [
+        "Nature",
+        "Blue",
+        "Teal"
+    ],
+    "colors": {
+        "background": "oklch(0.15 0.05 240)",
+        "foreground": "oklch(0.9 0.05 200)",
+        "card": "oklch(0.18 0.05 240)",
+        "cardForeground": "oklch(0.9 0.05 200)",
+        "primary": "oklch(0.7 0.15 190)",
+        "primaryForeground": "oklch(0.15 0.05 240)",
+        "secondary": "oklch(0.25 0.08 240)",
+        "secondaryForeground": "oklch(0.9 0.05 200)",
+        "muted": "oklch(0.25 0.08 240)",
+        "mutedForeground": "oklch(0.65 0.08 220)",
+        "accent": "oklch(0.6 0.15 260)",
+        "accentForeground": "oklch(0.9 0.05 200)",
+        "destructive": "oklch(0.6 0.2 25)",
+        "destructiveForeground": "oklch(0.95 0.02 200)",
+        "border": "oklch(0.3 0.08 240)",
+        "input": "oklch(0.28 0.08 240)",
+        "ring": "oklch(0.7 0.15 190)"
+    }
+}

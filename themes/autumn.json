@@ -1,0 +1,32 @@
+{
+    "id": "autumn",
+    "name": "Autumn",
+    "description": "Warm, rustic orange and brown tones",
+    "author": "Mio Kaza",
+    "version": "1.0.0",
+    "type": "dark",
+    "tags": [
+        "Nature",
+        "Warm",
+        "Orange"
+    ],
+    "colors": {
+        "background": "oklch(0.20 0.04 40)",
+        "foreground": "oklch(0.95 0.02 50)",
+        "card": "oklch(0.23 0.04 40)",
+        "cardForeground": "oklch(0.95 0.02 50)",
+        "primary": "oklch(0.7 0.18 50)",
+        "primaryForeground": "oklch(0.20 0.04 40)",
+        "secondary": "oklch(0.3 0.05 40)",
+        "secondaryForeground": "oklch(0.95 0.02 50)",
+        "muted": "oklch(0.3 0.05 40)",
+        "mutedForeground": "oklch(0.7 0.08 40)",
+        "accent": "oklch(0.65 0.15 25)",
+        "accentForeground": "oklch(0.95 0.02 50)",
+        "destructive": "oklch(0.55 0.2 20)",
+        "destructiveForeground": "oklch(0.95 0.02 50)",
+        "border": "oklch(0.35 0.05 40)",
+        "input": "oklch(0.32 0.05 40)",
+        "ring": "oklch(0.7 0.18 50)"
+    }
+}

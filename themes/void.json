@@ -1,0 +1,32 @@
+{
+    "id": "void",
+    "name": "Void",
+    "description": "Pure black optimized for OLED displays",
+    "author": "Mio Kaza",
+    "version": "1.0.0",
+    "type": "dark",
+    "tags": [
+        "OLED",
+        "Black",
+        "High Contrast"
+    ],
+    "colors": {
+        "background": "oklch(0 0 0)",
+        "foreground": "oklch(0.95 0 0)",
+        "card": "oklch(0.1 0 0)",
+        "cardForeground": "oklch(0.95 0 0)",
+        "primary": "oklch(1 0 0)",
+        "primaryForeground": "oklch(0 0 0)",
+        "secondary": "oklch(0.15 0 0)",
+        "secondaryForeground": "oklch(0.95 0 0)",
+        "muted": "oklch(0.15 0 0)",
+        "mutedForeground": "oklch(0.6 0 0)",
+        "accent": "oklch(0.3 0 0)",
+        "accentForeground": "oklch(1 0 0)",
+        "destructive": "oklch(0.6 0.25 25)",
+        "destructiveForeground": "oklch(1 0 0)",
+        "border": "oklch(0.2 0 0)",
+        "input": "oklch(0.2 0 0)",
+        "ring": "oklch(1 0 0)"
+    }
+}

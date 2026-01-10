@@ -1,0 +1,32 @@
+{
+    "id": "synth",
+    "name": "80s Synth",
+    "description": "Vaporwave sunsets and digital dreams",
+    "author": "Mio Kaza",
+    "version": "1.0.0",
+    "type": "dark",
+    "tags": [
+        "Retro",
+        "Purple",
+        "Pink"
+    ],
+    "colors": {
+        "background": "oklch(0.15 0.08 300)",
+        "foreground": "oklch(0.95 0.05 320)",
+        "card": "oklch(0.18 0.08 300)",
+        "cardForeground": "oklch(0.95 0.05 320)",
+        "primary": "oklch(0.7 0.2 30)",
+        "primaryForeground": "oklch(0.98 0 0)",
+        "secondary": "oklch(0.25 0.1 280)",
+        "secondaryForeground": "oklch(0.95 0.05 320)",
+        "muted": "oklch(0.25 0.1 280)",
+        "mutedForeground": "oklch(0.6 0.15 280)",
+        "accent": "oklch(0.75 0.2 200)",
+        "accentForeground": "oklch(0.15 0.08 300)",
+        "destructive": "oklch(0.6 0.2 20)",
+        "destructiveForeground": "oklch(0.98 0 0)",
+        "border": "oklch(0.35 0.1 300)",
+        "input": "oklch(0.3 0.1 300)",
+        "ring": "oklch(0.7 0.2 30)"
+    }
+}
