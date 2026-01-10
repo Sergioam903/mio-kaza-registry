@@ -1,1 +1,204 @@
-{}
+{
+    "themes": [
+        {
+            "id": "cyberpunk",
+            "name": "Cyberpunk",
+            "description": "High contrast neon aesthetic for night coding sessions",
+            "version": "1.0.0",
+            "author": "Mio Kaza",
+            "previewUrl": "previews/cyberpunk.png",
+            "downloadUrl": "themes/cyberpunk.json",
+            "tags": [
+                "Neon",
+                "Retro",
+                "High Contrast"
+            ],
+            "previewColors": {
+                "background": "oklch(0.12 0.05 290)",
+                "primary": "oklch(0.65 0.25 330)",
+                "accent": "oklch(0.85 0.2 190)",
+                "card": "oklch(0.15 0.05 290)"
+            }
+        },
+        {
+            "id": "everforest",
+            "name": "Everforest",
+            "description": "Natural and calming deep greens inspired by pine forests",
+            "version": "1.0.0",
+            "author": "Sainnhe",
+            "previewUrl": "previews/everforest.png",
+            "downloadUrl": "themes/everforest.json",
+            "tags": [
+                "Nature",
+                "Green",
+                "Soft"
+            ],
+            "previewColors": {
+                "background": "oklch(0.18 0.03 150)",
+                "primary": "oklch(0.75 0.12 130)",
+                "accent": "oklch(0.8 0.1 85)",
+                "card": "oklch(0.2 0.03 150)"
+            }
+        },
+        {
+            "id": "nord",
+            "name": "Nord",
+            "description": "An arctic, north-bluish color palette",
+            "version": "1.0.0",
+            "author": "Arctic Ice Studio",
+            "previewUrl": "previews/nord.png",
+            "downloadUrl": "themes/nord.json",
+            "tags": [
+                "Minimal",
+                "Blue",
+                "Cold"
+            ],
+            "previewColors": {
+                "background": "oklch(0.22 0.04 260)",
+                "primary": "oklch(0.75 0.1 230)",
+                "accent": "oklch(0.7 0.12 180)",
+                "card": "oklch(0.25 0.04 260)"
+            }
+        },
+        {
+            "id": "void",
+            "name": "Void",
+            "description": "Pure black optimized for OLED displays",
+            "version": "1.0.0",
+            "author": "Mio Kaza",
+            "previewUrl": "previews/void.png",
+            "downloadUrl": "themes/void.json",
+            "tags": [
+                "OLED",
+                "Black",
+                "High Contrast"
+            ],
+            "previewColors": {
+                "background": "oklch(0 0 0)",
+                "primary": "oklch(1 0 0)",
+                "accent": "oklch(0.3 0 0)",
+                "card": "oklch(0.1 0 0)"
+            }
+        },
+        {
+            "id": "rose-pine",
+            "name": "Rose Pine",
+            "description": "Soho vibes for your digital lifestyle",
+            "version": "1.0.0",
+            "author": "Rose Pine",
+            "previewUrl": "previews/rose-pine.png",
+            "downloadUrl": "themes/rose-pine.json",
+            "tags": [
+                "Pastel",
+                "Pink",
+                "Soft"
+            ],
+            "previewColors": {
+                "background": "oklch(0.15 0.03 340)",
+                "primary": "oklch(0.8 0.1 350)",
+                "accent": "oklch(0.75 0.12 300)",
+                "card": "oklch(0.18 0.03 340)"
+            }
+        },
+        {
+            "id": "autumn",
+            "name": "Autumn",
+            "description": "Warm, rustic orange and brown tones",
+            "version": "1.0.0",
+            "author": "Mio Kaza",
+            "previewUrl": "previews/autumn.png",
+            "downloadUrl": "themes/autumn.json",
+            "tags": [
+                "Nature",
+                "Warm",
+                "Orange"
+            ],
+            "previewColors": {
+                "background": "oklch(0.20 0.04 40)",
+                "primary": "oklch(0.7 0.18 50)",
+                "accent": "oklch(0.65 0.15 25)",
+                "card": "oklch(0.23 0.04 40)"
+            }
+        },
+        {
+            "id": "oceanic",
+            "name": "Oceanic",
+            "description": "Deep sea aesthetics with teal accents",
+            "version": "1.0.0",
+            "author": "Mio Kaza",
+            "previewUrl": "previews/oceanic.png",
+            "downloadUrl": "themes/oceanic.json",
+            "tags": [
+                "Nature",
+                "Blue",
+                "Teal"
+            ],
+            "previewColors": {
+                "background": "oklch(0.15 0.05 240)",
+                "primary": "oklch(0.7 0.15 190)",
+                "accent": "oklch(0.6 0.15 260)",
+                "card": "oklch(0.18 0.05 240)"
+            }
+        },
+        {
+            "id": "solarized",
+            "name": "Solarized",
+            "description": "Precision colors for machines and people",
+            "version": "1.0.0",
+            "author": "Ethan Schoonover",
+            "previewUrl": "previews/solarized.png",
+            "downloadUrl": "themes/solarized.json",
+            "tags": [
+                "Retro",
+                "Teal",
+                "Low Contrast"
+            ],
+            "previewColors": {
+                "background": "oklch(0.20 0.05 200)",
+                "primary": "oklch(0.6 0.15 50)",
+                "accent": "oklch(0.6 0.1 160)",
+                "card": "oklch(0.23 0.05 200)"
+            }
+        },
+        {
+            "id": "terminal",
+            "name": "Terminal",
+            "description": "Retro hacker styling with green phosphors",
+            "version": "1.0.0",
+            "author": "Mio Kaza",
+            "previewUrl": "previews/terminal.png",
+            "downloadUrl": "themes/terminal.json",
+            "tags": [
+                "Retro",
+                "Hacker",
+                "Green"
+            ],
+            "previewColors": {
+                "background": "oklch(0.1 0 0)",
+                "primary": "oklch(0.75 0.2 140)",
+                "accent": "oklch(0.2 0.1 140)",
+                "card": "oklch(0.12 0 0)"
+            }
+        },
+        {
+            "id": "synth",
+            "name": "80s Synth",
+            "description": "Vaporwave sunsets and digital dreams",
+            "version": "1.0.0",
+            "author": "Mio Kaza",
+            "previewUrl": "previews/synth.png",
+            "downloadUrl": "themes/synth.json",
+            "tags": [
+                "Retro",
+                "Purple",
+                "Pink"
+            ],
+            "previewColors": {
+                "background": "oklch(0.15 0.08 300)",
+                "primary": "oklch(0.7 0.2 30)",
+                "accent": "oklch(0.75 0.2 200)",
+                "card": "oklch(0.18 0.08 300)"
+            }
+        }
+    ]
+}
